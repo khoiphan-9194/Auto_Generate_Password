@@ -56,7 +56,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Application Screenshot
 
-![alt text](./Assets/Screenshot.jpg "Password Generator Screen Shot")
+![alt text](./Assets/Screenshot.png "Password Generator Screen Shot")
 
 ## Accessories Used
 ### Languages
